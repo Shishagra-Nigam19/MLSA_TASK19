@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/lion.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Be Brave Like a Lion";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Smart Educational Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Website Regarding Revamping the education System.",
+    url: "http://shishagra-nigam19smarteducation.github/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Flight Management Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Basically A website which shows  how the flights are managed.",
+    url: "http://shishagra-nigamfilght.github/",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This site includes my Education and My Goals. Includes my experience and design abilities.",
+    url: "https://shishagra-nigam19.github.io/Complete-portfolio-website/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Site to cure Depression",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is a Site where people can come and express there thoughts without bring the feeling of being judged.",
+    url: "http://shishagra-nigam19curedepression.github/",
   },
 ];
 
